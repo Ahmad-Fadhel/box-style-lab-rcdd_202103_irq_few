@@ -51,6 +51,7 @@ h4 {
 
 .column img{
   border: solid;
+  box-sizing: border-box;
 }
 
 .small {
